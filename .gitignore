@@ -1,0 +1,16 @@
+# Windows & macOS System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Jupyter & Python Caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE Settings
+.idea/
+.vscode/

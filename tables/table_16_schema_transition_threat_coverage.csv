@@ -1,0 +1,4 @@
+schema_coverage_era,record_count,wapo_threat_level_non_null_n,wapo_threat_level_non_null_pct,threat_perception_non_null_n,threat_perception_non_null_pct,footage_non_null_pct,flee_non_null_pct
+1. Historical Window (2013–2025),15325,14147,92.31,2109,13.76,32.05,90.56
+"2. 2026 Pre-Schema Shift (Jan 1 – Jul 12, 2026)",723,635,87.83,282,39.0,50.62,99.17
+3. 2026 Post-Schema Shift (Jul 13 – Nov 2026),413,0,0.0,368,89.1,44.55,99.76
